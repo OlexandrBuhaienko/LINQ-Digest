@@ -1,0 +1,15 @@
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\bin\Debug\net6.0\Test_LINQ.exe
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\bin\Debug\net6.0\Test_LINQ.deps.json
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\bin\Debug\net6.0\Test_LINQ.runtimeconfig.json
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\bin\Debug\net6.0\Test_LINQ.dll
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\bin\Debug\net6.0\Test_LINQ.pdb
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\obj\Debug\net6.0\Test_LINQ.csproj.AssemblyReference.cache
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\obj\Debug\net6.0\Test_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\obj\Debug\net6.0\Test_LINQ.AssemblyInfoInputs.cache
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\obj\Debug\net6.0\Test_LINQ.AssemblyInfo.cs
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\obj\Debug\net6.0\Test_LINQ.csproj.CoreCompileInputs.cache
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\obj\Debug\net6.0\Test_LINQ.dll
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\obj\Debug\net6.0\refint\Test_LINQ.dll
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\obj\Debug\net6.0\Test_LINQ.pdb
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\obj\Debug\net6.0\Test_LINQ.genruntimeconfig.cache
+D:\WORK\LINQ\Test_LINQ\Test_LINQ\obj\Debug\net6.0\ref\Test_LINQ.dll
